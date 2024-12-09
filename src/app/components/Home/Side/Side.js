@@ -15,7 +15,7 @@ return (
          <Image className="transform hover:scale-110 transition duration-300" src="/Telegram.png"  width={40} height={40} alt="telegram-icon" />
        </a>
        <a className=" p-2 " href="https://x.com/latecoinsol" target="_blank" rel="noopener noreferrer">
-         <Image className="rounded-full transform hover:scale-110 transition duration-300 " src="/X.png" width={40} height={40} alt="x-icon" />
+         <Image className="rounded-full transform hover:scale-110 transition duration-300 " src="/x.png" width={40} height={40} alt="x-icon" />
        </a>
        <a className=" p-2 " href="https://dexscreener.com/" target="_blank" rel="noopener noreferrer">
          <Image className="rounded-full transform hover:scale-110 transition duration-300" src="/dex.png" width={40} height={40} alt="x-icon" />
