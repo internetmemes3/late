@@ -39,7 +39,7 @@ const About = () => {
         />
         <div className="text-center md:text-left md:ml-6 md:w-2/3 flex flex-col justify-between items-center">
           <h2 className="text-2xl text-yellow-500 font-semibold mb-2 bungee-inline-regular ">Late Coin: The Memecoin That flex being late</h2>
-          <p className="text-base mb-4 waiting-for-the-sunrise-regular w-4/5">
+          <p className="text-base mb-4 waiting-for-the-sunrise-regular w-4/5 text-left">
           The right moment is always when you’re ready. This isn’t just about catching up; it’s also about making your move at the perfect time. 
           LateCoin is here to remind you that there’s always a chance to get in, anywhere, anytime. 
           
@@ -69,7 +69,7 @@ const About = () => {
             {[...Array(100)].map((_, index) => (
              <span 
              key={index}
-             className="sm:text-sm text-3xl lg:text-3xl max-md:text-sm font-bold text-black px-1 mb-2 md:mb-4 lg:mb-6 mt-6"
+             className="sm:text-sm text-3xl lg:text-3xl max-md:text-sm font-bold text-black px-1 mb-2 md:mb-4 lg:mb-6 mt-2 md:mt-6"
              style={{ textShadow: '1px 1px 2px rgba(255,255,255,0.7)' }}
            >
                 🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛🕐🕑

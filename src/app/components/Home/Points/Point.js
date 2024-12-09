@@ -44,7 +44,7 @@ const Point = () => {
             {[...Array(100)].map((_, index) => (
              <span 
              key={index}
-             className="sm:text-sm text-3xl lg:text-3xl max-md:text-sm font-bold text-black px-1 mb-2 md:mb-4 lg:mb-6 mt-6"
+             className="sm:text-sm text-3xl lg:text-3xl max-md:text-sm font-bold text-black px-1 mb-2 md:mb-4 lg:mb-6 mt-2 md:mt-6"
              style={{ textShadow: '1px 1px 2px rgba(255,255,255,0.7)' }}
            >
                 🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛🕐🕑
@@ -62,7 +62,7 @@ const Point = () => {
               <div className="py-20">
                 <div className="flex flex-col items-center">
                   <span className="text-5xl mb-4">😰</span>
-                  <span className="font-semibold text-lg text-white dark:text-slate-200">
+                  <span className="font-semibold text-lg w-1/2 md:w-full text-white dark:text-slate-200">
                   Feeling the Fear of Missing Out on opportunities at the wrong time ?
                   </span>
                 </div>
@@ -78,7 +78,7 @@ const Point = () => {
                 <div>
                 <div className="flex flex-col items-center">
                   <span className="text-5xl mb-4">😤</span>
-                  <span className="font-semibold text-lg text-white dark:text-slate-200">
+                  <span className="font-semibold text-lg w-1/2 md:w-full text-white dark:text-slate-200">
                    Feeling overwhelmed by missed opportunities ?
                   </span>
                 </div>
@@ -94,14 +94,14 @@ const Point = () => {
                 <div>
                 <div className="flex flex-col items-center">
                   <span className="text-5xl mb-4">😩</span>
-                  <span className="font-semibold text-lg text-white dark:text-slate-200">
+                  <span className="font-semibold text-lg w-1/2 md:w-full text-white dark:text-slate-200">
                   Watching others succeed while waiting on the sidelines ?
                   </span>
                 </div>
               </div>
             
         </div>
-        <div className="text-center ">
+        <div className="text-center mt-8 ">
           <div className="flex flex-col items-center">
           <span className="text-5xl mb-4">😏</span>
             <p className="text-slate-600 dark:text-slate-400 text-lg">

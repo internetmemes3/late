@@ -5,8 +5,8 @@ const Hero = () => {
 
     return (
         <div className="flex flex-col items-center justify-center  bg-black text-foreground">
-        <div className="flex flex-col md:flex-row ">
-          <div className="text-center md:text-left md:mr-10 w-2/3 flex flex-col justify-center items-center">
+        <div className="flex flex-col md:flex-row items-center justify-center ">
+          <div className="text-left md:text-left w-3/4 md:w-2/3 flex flex-col justify-center items-center">
           <h1 className="text-5xl font-bold text-white leading-tight nabla-hero-title">
             Late Coin
           </h1>
