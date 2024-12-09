@@ -69,7 +69,7 @@ const Point = () => {
               </div>
                 <center>
                   <img
-                    src="./RightArrow.svg"
+                    src="/rightArrow.svg"
                     width="50"
                     alt="arrow"
                     className="dark:invert rotate-90 md:rotate-0 mt-5 mb-5 md:mt-0 md:mb-0"
