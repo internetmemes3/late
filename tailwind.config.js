@@ -7,6 +7,18 @@ module.exports = {
   ],
   theme: {
     extend: {
+      animation: {
+        scroll: 'scroll var(--animation-duration) linear infinite',
+      },
+      keyframes: {
+        scroll: {
+          '0%': { transform: 'translateX(0)' },
+          '100%': { transform: 'translateX(calc(-100% / var(--repeat-count)))' },
+        },
+      },
+      fontFamily: {
+        'fuel-decay': ['pf-fuel-decay', 'sans-serif'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
