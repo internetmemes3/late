@@ -7,7 +7,7 @@ return (
    <div>
        <div className=" z-50 bg-amber-400 fixed top-20 mt-20 border rounded-r-lg p-1 border-yellow-300" >
        <p className="text-sm font-bold italic font-serif max-md:text-[8px]">
-           $LATECOIN
+           $
        </p>
        </div>
        <div className="ml-4 z-50 bottom-60 fixed space-y-4 ">
