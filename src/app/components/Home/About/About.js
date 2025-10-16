@@ -25,8 +25,9 @@ const About = () => {
   return (
     <div className="bg-black text-white p-8 flex flex-col justify-center items-center">
       <h1 className="text-4xl font-bold mb-4 text-center matemasie-regular">Embrace the Late Mindset</h1>
-      <p className="text-lg mb-8 text-center  w-1/2">
-        Believe in the power of the Late Coin. This meme coin is a movement with a sense of humor that welcomes everyone, anytime. It’s an icon of the belief that it’s always the right time. So just go for it !
+      <p className="text-lg mb-8 text-center  w-2/1">
+        Late Coin are built for degens, dreamers, and anyone who believes that it’s never late to win. <br></br>This meme coin is a movement with a sense of humor that welcomes everyone, anytime. <br></br>
+        An icon of the belief that it’s always the right time. <br></br>This is your sign: the right time is now, so just go for it !
       </p>
       
       <div className="border border-gray-500 p-10  rounded-lg shadow-lg flex flex-col md:flex-row justify-between items-center">
@@ -46,8 +47,8 @@ const About = () => {
           Join us, Be part of the community, Be part of the movement, and let's make ‘late’ the ultimate flex, because the opportunity is always here...
           </p>
           <div className="mt-6 flex space-x-4">
-          <a className="bg-yellow-400 text-white text-primary-foreground px-4 py-2 rounded-lg hover:bg-primary/80"  href="https://pump.fun/board" target="_blank" >Buy Late Coin</a>
-          <a className="text-gray-200 border border-gray-500 text-secondary-foreground px-4 py-2 rounded-lg hover:bg-secondary/80" href="https://t.me/latecoinsol" target="_blank" >Join The Movement</a>
+          <a className="bg-yellow-400 text-black text-primary-foreground px-4 py-2 rounded-lg hover:bg-primary/80"  href="https://bags.fm/" target="_blank" >Buy Late Coin</a>
+          <a className="text-gray-200 border border-gray-500 text-secondary-foreground px-4 py-2 rounded-lg hover:bg-secondary/80" href="https://x.com/LateCoinlol" target="_blank" >Join The Movement</a>
         </div>
         </div>
       </div>

@@ -12,8 +12,8 @@ const Hero = () => {
           </h1>
             <p className="mt-4 text-lg text-white w-3/4 text-muted-foreground indie-flower-regular">If you've ever felt the Fear Of Missing Out, been on the lookout for a sign, or wondered if you're too late and unsure whether it's the right time for an opportunity... <br/> Let us assure you: We know that timing is key, and LateCoin is here to prove that the best opportunities come when you're prepared for them. <br/> We believe that being late isn’t a setback, and the right moment is always now.</p>
             <div className="mt-6 flex space-x-4">
-              <a className="bg-yellow-400 text-white text-primary-foreground px-4 py-2 rounded-lg hover:bg-primary/80"  href="https://pump.fun/board" target="_blank" >$LATECOIN</a>
-              <a className="text-gray-200 border border-gray-500 text-secondary-foreground px-4 py-2 rounded-lg hover:bg-secondary/80" href="https://t.me/latecoinsol" target="_blank" >Join Community</a>
+              <a className="bg-yellow-400 text-black text-primary-foreground px-4 py-2 rounded-lg hover:bg-primary/80"  href="https://bags.fm/" target="_blank" >$LATECOIN</a>
+              <a className="text-gray-200 border border-gray-500 text-secondary-foreground px-4 py-2 rounded-lg hover:bg-secondary/80" href="https://x.com/LateCoinlol" target="_blank" >Join The Movement</a>
             </div>
           </div>
           <div className="mt-10 md:mt-0">
