@@ -17,7 +17,7 @@ const Side = () => {
           <Image className="rounded-full transform hover:scale-110 transition duration-300 " src="/x.png" width={40} height={40} alt="x-icon" />
         </a>
 
-        <a className=" p-2 " href="https://pump.fun" target="_blank" rel="noopener noreferrer">
+        <a className=" p-2 " href="https://pump.fun/coin/2ZDdkWe2MNEfWXxoVgyefUmWSwtA5AoFWMNtpWYFpump" target="_blank" rel="noopener noreferrer">
           <Image className="rounded-full transform hover:scale-110 transition duration-300" src="/pump.jpg" width={40} height={40} alt="pump-icon" />
         </a>
       </div>
