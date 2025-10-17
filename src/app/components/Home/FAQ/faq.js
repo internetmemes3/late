@@ -53,7 +53,7 @@ const Faq = () => {
                       </span>
                     </summary>
                     <p className="text-white mt-3 group-open:animate-fadeIn">
-                    Grab some $LATECOIN on Bags.fm and join the party! Join X on : @LateCoinlol, and stay updated on the movement. It’s that simple, just show up! </p>
+                    Grab some $LATECOIN and join the party! Join X on : @LateCoinlol, and stay updated on the movement. It’s that simple, just show up! </p>
                   </details>
                 </div>
             </div>

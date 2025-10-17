@@ -22,7 +22,7 @@ const Navbar = () => {
           </div>
           <a 
             className="hidden md:block bg-yellow-500 hover:bg-yellow-600 text-white px-4 py-2 mr-4 rounded-lg"
-            href="https://bags.fm//"
+            href="https://pump.fun"
             target="_blank"
           >
             Buy Now
