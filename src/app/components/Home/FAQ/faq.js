@@ -40,7 +40,7 @@ const Faq = () => {
                       </span>
                     </summary>
                     <p className="text-white mt-3 group-open:animate-fadeIn">
-                    LATE coin combines a movement with sense of humour, building a supportive community that transforms the anxiety of being "late" into a strength.
+                    $LATECOIN combines a movement with sense of humour, building a supportive community that transforms the anxiety of being "late" into a strength.
                      </p>
                   </details>
                 </div>
