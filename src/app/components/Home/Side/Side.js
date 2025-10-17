@@ -17,7 +17,7 @@ const Side = () => {
           <Image className="rounded-full transform hover:scale-110 transition duration-300 " src="/x.png" width={40} height={40} alt="x-icon" />
         </a>
 
-        <a className=" p-2 " href="https://bags.fm/" target="_blank" rel="noopener noreferrer">
+        <a className=" p-2 " href="https://bags.fm/DwBfiFftT32oByb4xyxrB3GknD4w4bxTNZX66xC5BAGS" target="_blank" rel="noopener noreferrer">
           <Image className="rounded-full transform hover:scale-110 transition duration-300" src="/bags.png" width={40} height={40} alt="pump-icon" />
         </a>
       </div>
