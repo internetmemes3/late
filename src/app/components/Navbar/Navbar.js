@@ -22,7 +22,7 @@ const Navbar = () => {
           </div>
           <a 
             className="hidden md:block bg-yellow-500 hover:bg-yellow-600 text-white px-4 py-2 mr-4 rounded-lg"
-            href="https://four.meme/"
+            href="https://four.meme/token/0x1a5879fe551d15e1e5eaf3b9900f935f0b474444"
             target="_blank"
           >
             Buy Now

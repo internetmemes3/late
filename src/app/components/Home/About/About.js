@@ -47,7 +47,7 @@ const About = () => {
           Join us, Be part of the community, Be part of the movement, and let's make ‘late’ the ultimate flex, because the opportunity is always here...
           </p>
           <div className="mt-6 flex space-x-4">
-          <a className="bg-yellow-400 text-black text-primary-foreground px-4 py-2 rounded-lg hover:bg-primary/80"  href="https://four.meme/" target="_blank" >Buy Late Coin</a>
+          <a className="bg-yellow-400 text-black text-primary-foreground px-4 py-2 rounded-lg hover:bg-primary/80"  href="https://four.meme/token/0x1a5879fe551d15e1e5eaf3b9900f935f0b474444" target="_blank" >Buy Late Coin</a>
           <a className="text-gray-200 border border-gray-500 text-secondary-foreground px-4 py-2 rounded-lg hover:bg-secondary/80" href="https://x.com/i/communities/1979237655453012019" target="_blank" >Join The Movement</a>
         </div>
         </div>
